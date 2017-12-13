@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">MyWay2</string>
+    <string name="app_name">MyWayTest1</string>
+    <string name="title_activity_maps">MyWay</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="authors">von Annika, Madlon, Vicky</string>
+    <string name="myWayCapitals">MY WAY</string>
+    <string name="launcherIconQ">LauncherIconQ</string>
 </resources>
